@@ -5,6 +5,10 @@ The paper proposes the circularity indicators summarized below by leveraging the
 
 ![SummaryTable](https://user-images.githubusercontent.com/62107909/209710427-472af1d2-7699-4bf8-9e1e-1ad3e1d10acf.JPG)
 
+The calculation of the indicators is illustrated with examples.
+
+![Example1](https://user-images.githubusercontent.com/62107909/209711058-240e1e3d-3606-4ad6-ac71-72cbce77da90.JPG)
+
 If you use this code, please consider citing the corresponding paper mentioned above.
 
 ## Getting started
