@@ -1,4 +1,4 @@
-# A MATLAB implementation of circularity indicators of thermodynamical material networks
+# A MATLAB Implementation of Circularity Indicators of Thermodynamical Material Networks
 The repository contains the source code of the paper "Circularity of Thermodynamical Material Networks: Indicators, Examples, and Algorithms" authored by Federico Zocco, Beatrice Smyth, and Pantelis Sopasakis and available at: https://arxiv.org/pdf/2209.15051.pdf. 
 
 If you use this code, please consider citing the corresponding paper mentioned above.
