@@ -3,6 +3,6 @@ The repository contains the source code of the paper "Circularity of Thermodynam
 
 If you use this code, please consider citing the corresponding paper mentioned above.
 
-# Getting started
+## Getting started
 Example_1.m and Example_2.m generate the results showed in the paper. Other mass-flow matrices could be considered.
 Debugging.m illustrates the calculation of the indicators for simple graphs. See the code for more information. 
