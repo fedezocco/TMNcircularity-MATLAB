@@ -11,5 +11,9 @@ The paper also provides the dynamical equations for modeling highly dynamic stoc
 
 
 ## Getting started
+### Case of fluid materials
 Example_1.m and Example_2.m generate the results showed in the paper. Other mass-flow matrices could be considered.
 Debugging.m illustrates the calculation of the indicators for simple graphs. See the code for more information. 
+
+### Case of solid materials
+....
