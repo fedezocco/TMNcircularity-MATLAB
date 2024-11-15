@@ -10,10 +10,10 @@ The paper also provides the dynamical equations for modeling highly dynamic stoc
 ![solidFlows](https://github.com/user-attachments/assets/c75b1586-1193-48d2-98ab-1a63e52a267d)
 
 
-## Getting started
-### Case of fluid materials
-Example_1.m and Example_2.m generate the results showed in the paper. Other mass-flow matrices could be considered.
+## Getting Started
+### Case of Fluid Materials
+"Example_1.m" and "Example_2.m" generate the results shown in the paper. Other mass-flow matrices could be considered.
 Debugging.m illustrates the calculation of the indicators for simple graphs. See the code for more information. 
 
-### Case of solid materials
-....
+### Case of Solid Materials
+The Simulink file "NumericalExampleWithSolids.slx" generates the results reported in the paper. Before running the Simulink model, initialize it by running the script "NumericalExampleWithSolids_param.m".
