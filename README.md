@@ -1,5 +1,5 @@
 # A MATLAB-Simulink Implementation of Circularity Indicators of Thermodynamical Material Networks
-This repository contains the source code of the paper "Circularity of Thermodynamical Material Networks: Indicators, Examples, and Algorithms" authored by Federico Zocco and available at: https://arxiv.org/pdf/2209.15051.pdf. If you use this code, please consider citing the corresponding paper.
+This repository contains the source code of the paper: Zocco, F. Circularity of Thermodynamical Material Networks: Indicators, Examples, and Algorithms. Circ.Econ.Sust. 6, 94 (2026). Available at: https://rdcu.be/e7xsZ. If you use this code, please consider citing the corresponding paper.
 
 The paper proposes the circularity indicators summarized below by leveraging graph theory and the formalism of thermodynamical material networks.
 
